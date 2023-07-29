@@ -1,0 +1,23 @@
+.converter-row
+{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 40%;
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    border: 10px solid white;
+    margin-left: 450px;
+    margin-top: 50px;
+    
+}
+body
+{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+
